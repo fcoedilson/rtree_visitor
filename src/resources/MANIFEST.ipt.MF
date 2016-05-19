@@ -1,4 +1,0 @@
-Manifest-Version: 1.0
-Main-Class: br.org.sigarota.server.ACP245Reader
-Class-path: lib\postgresql-8.4-702.jdbc3.jar
-
